@@ -6,7 +6,7 @@ Unzipper è uno script in Python che monitora la cartella dei download per estra
 
 1. **Clone il repository:**
    ```
-   git clone https://github.com/JHNMACHINE/unzipper.git)
+   git clone https://github.com/JHNMACHINE/unzipper.git
 2. **Crea e attiva un ambiente virtuale (venv):**
     ```
     cd Unzipper
